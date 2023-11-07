@@ -1,0 +1,10 @@
+1. Cos'è un algoritmo? Prova a spiegarlo con parole tue, come se lo dovessi spiegare a qualcuno che non ne capisce niente di informatica.
+- Un algoritmo è una serie di operazioni e comandi forniti all’elaboratore in un ordine logico preciso per ottenere un certo tipo di risultato, risposta o soluzione. Un algoritmo è paragonabile alle istruzioni per montare un mobile: sono indicati i pezzi che verranno usati, la loro natura e dove sono contenuti; I pezzi devono poi essere montati in un certo ordine e modo per ottenere il mobile come indicato da risultato delle istruzioni.
+
+
+2. Cos'è una variabile? Prova a spiegarlo con parole tue, come se lo dovessi spiegare a qualcuno che non ne capisce niente di informatica.
+- Una variabile si può paragonare a una cartella di un archivio, su cui viene scritto un nome, che la identifica in modo: il nome di quella cartella è solo suo. La cartella può essere vuota o contenere delle informazioni, che possono a loro volta modificate o eliminate o usate come parte di un algoritmo.
+
+
+3. Undefined e null sono la stessa stessa cosa?
+- No. Undefined è una variabile che è stata dichiarata nel codice, ma di cui non è stato definito alcun valore, ne la sua tipologia (es. solo comando “let myVariable”. Null rappresenta una variabile il cui contenuto è blank, vuoto: questa valorizzazione è diversa da “0” però, che identificherebbe il tipo di variabile come numerica, e il suo contenuto come “0” appunto. 
